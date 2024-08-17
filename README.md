@@ -87,10 +87,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or support, please contact:
 
-- **Email:** your-email@example.com
-- **GitHub Issues:** [Submit an Issue](https://github.com/your-username/ar-clothing-try-on/issues)
+*Output*
+![ezgif-6-b59843d86a](https://github.com/user-attachments/assets/b3e1dbde-dc62-4d1c-9459-6815ec9cd9a4)
 
 ---
 
