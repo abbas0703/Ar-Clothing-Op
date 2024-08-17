@@ -27,7 +27,7 @@ Welcome to the AR-Based Clothing Try-On Application! This project leverages WebA
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/ar-clothing-try-on.git
+   git clone https://github.com/abbas0703/ar-clothing-try-on.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -80,12 +80,6 @@ We welcome contributions! If you would like to contribute to this project, pleas
 2. Create a new branch for your feature or fix.
 3. Make your changes and test them.
 4. Submit a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
 
 
 *Output*
